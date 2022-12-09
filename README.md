@@ -1,6 +1,8 @@
 # Sales-Analysis-Power-BI-
-## Problem Statement: To analyze sales of the Superstore Giant.
-## Data Source: Kaggle
+## Problem Statement: 
+To analyze sales of the Superstore Giant.
+## Data Source: 
+Kaggle
 ## Dataset Description:
 1. Row ID - Unique ID for each row.
 2. Order ID - Unique Order ID for each Customer.

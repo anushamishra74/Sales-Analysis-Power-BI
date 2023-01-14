@@ -1,8 +1,10 @@
 # Sales-Analysis-Power-BI-
 ## Problem Statement: 
 To analyze sales of the Superstore Giant.
+
 ## Data Source: 
 Kaggle
+
 ## Dataset Description:
 1. Row ID - Unique ID for each row.
 2. Order ID - Unique Order ID for each Customer.
@@ -26,3 +28,6 @@ Kaggle
 20. Discount - Discount provided.
 21. Profit - Profit/Loss incurred.
 22. Shipping cost - Direct cost of the Product.
+
+## Tools
+Power BI

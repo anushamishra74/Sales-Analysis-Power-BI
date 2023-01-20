@@ -1,4 +1,4 @@
-# Sales-Analysis using Power-BI
+# Sales Analysis using PowerBI
 ## Problem Statement: 
 To analyze sales of the Superstore Giant.
 
